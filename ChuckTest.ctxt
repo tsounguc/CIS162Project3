@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ChuckTest
+comment0.text=\r\n\ Description\:\ This\ test\ instantiates\ a\ game\ and\ invokes\ each\ of\ \r\n\ the\ methods\ with\ a\ variety\ of\ parameter\ values\ to\ test\r\n\ each\ method.\r\n\r\n\ @author\ Christian\ Tsoungui\ Nkoulou\r\n\ @version\ 3/17/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
